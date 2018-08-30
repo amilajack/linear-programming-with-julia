@@ -1,10 +1,9 @@
 #!/usr/bin/env julia
- 
-#Start Test Script
+
 using LP
 using Base.Test
- 
-# Run tests
+using JuMP
+using Cbc
  
 tic()
 println("Test 1")

@@ -20,9 +20,5 @@ result = getvalue(a), getvalue(b), getvalue(c), getvalue(d)
 
 export status
 export result
-export a
-export b
-export c
-export d
 
 end

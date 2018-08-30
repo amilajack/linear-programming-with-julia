@@ -1,7 +1,7 @@
 linear-programming-with-julia
 =============================
 
-[![Build Status](https://travis-ci.org/amilajack/linear-programming-with-julia.svg?branch=master)]
+![Build Status](https://travis-ci.org/amilajack/linear-programming-with-julia.svg?branch=master)
 
 ## Requirements
 * `julia@0.7`

@@ -2,8 +2,6 @@
 
 using LP
 using Base.Test
-using JuMP
-using Cbc
  
 tic()
 println("Test 1")

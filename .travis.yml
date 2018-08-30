@@ -2,7 +2,6 @@ language: julia
 
 julia:
   - nightly
-  - release
   - 0.7
 
 matrix:
